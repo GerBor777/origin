@@ -1,0 +1,9 @@
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/CMakeFiles/demoVendorCatch2.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/CMakeFiles/edit_cache.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/CMakeFiles/rebuild_cache.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/src/CMakeFiles/Catch2.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/src/CMakeFiles/Catch2WithMain.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/src/CMakeFiles/edit_cache.dir
+D:/DZ/Lesson2/Task 1/out/build/x64-Debug/Catch2/src/CMakeFiles/rebuild_cache.dir
