@@ -1,0 +1,41 @@
+# CMake
+build*/
+cmake-build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.autosave
+*.user
+*.user.*
+*.pro.user*
+*.qbs.user*
+*.creator.*
+*.creator
+
+# Other IDE
+.idea/
+.vscode/
+*.swp
+*~ 
+*.ncb
+*.sdf
+*.suo
+*.opensdf
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+*.class
+*.pyc
+__pycache__/
