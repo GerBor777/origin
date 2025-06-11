@@ -1,0 +1,13 @@
+# Не загружать бинарники, сборку и IDE-файлы
+*.exe
+*.o
+*.obj
+*.user
+*.pro.user
+*.autosave
+*.log
+CMakeFiles/
+CMakeCache.txt
+Makefile
+build/
+cmake-build-*/
